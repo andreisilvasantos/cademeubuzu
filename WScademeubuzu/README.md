@@ -94,5 +94,7 @@ Debug the Application
 
 If you want to debug the source code or look at the Javadocs of any library in the project, run either of the following commands to pull them into your local repository. The IDE should then detect them.
 
+bando de dados conexão mySQL: http://mysql-dbcademeubuzu.1d35.starter-us-east-1.openshiftapps.com
+
     mvn dependency:sources
     mvn dependency:resolve -Dclassifier=javadoc
